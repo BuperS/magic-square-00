@@ -1,0 +1,9 @@
+pyproject.toml
+src/__init__.py
+src/validate_lines.py
+src/magic_square_00.egg-info/PKG-INFO
+src/magic_square_00.egg-info/SOURCES.txt
+src/magic_square_00.egg-info/dependency_links.txt
+src/magic_square_00.egg-info/requires.txt
+src/magic_square_00.egg-info/top_level.txt
+tests/test_validate_lines.py
